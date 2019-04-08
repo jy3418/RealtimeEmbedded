@@ -1,0 +1,13 @@
+NAME: Justin Jaeo Youn
+EMAIL: jy3418@hotmail.com
+ID: 004906107
+
+Included files:
+lab4c_tcp.c <-- unsecured version of connecting to server on beaglebone
+lab4c_tls.c <-- secured connection to server on beaglebone
+Makefile <-- file containing instructions on how to build and tar the program
+REAMDE <-- file that you are reading currently about information on this project
+
+Other things to know:
+I chose to use multiple threads instead of doing it in a single thread, as I thought that the implementation
+was actually easier.
