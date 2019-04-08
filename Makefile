@@ -1,6 +1,5 @@
 # NAME: Justin Jaeo Youn
 # EMAIL: jy3418@hotmail.com
-# ID: 004906107
 
 CC = gcc
 CFLAGS = -g -Wall -Wextra -lmraa -lm -lpthread
